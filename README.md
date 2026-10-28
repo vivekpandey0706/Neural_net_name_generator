@@ -1,6 +1,6 @@
 # Character-level MLP language model
 
-This follows on from my [bigram/trigram name generator](https://github.com/vivekpandey0706/Bigram-Trigram-name-generator). The task is the same: learn from a list of 32,033 names and generate new ones, one character at a time. This time the models are neural networks. I first rebuilt the bigram as a one-layer network trained with gradient descent. Then I built the MLP from Bengio et al. (2003), which learns a vector for every character.
+This follows on from my [bigram/trigram name generator](https://github.com/vivekpandey0706/Bigram_Trigram_name_generator). The task is the same: learn from a list of 32,033 names and generate new ones, one character at a time. This time the models are neural networks. I first rebuilt the bigram as a one-layer network trained with gradient descent. Then I built the MLP from Bengio et al. (2003), which learns a vector for every character.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vivekpandey0706/Neural_net_name_generator/blob/main/Neural_Net_Name_Generator.ipynb)
 
