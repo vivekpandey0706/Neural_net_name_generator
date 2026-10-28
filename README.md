@@ -135,7 +135,7 @@ The neural bigram landed on exactly the same answer as counting. It's the same m
 
 - Add batch normalization to the hidden layer
 - Try longer contexts with a WaveNet-style model that merges characters in stages
-- I trained a Transformer on Shakespeare in my [mini-gpt](https://github.com/vivekpandey0706/mini-gpt) repo, and I'd like to try one on these names too
+- I trained a Transformer on Shakespeare in my [mini-gpt](https://github.com/vivekpandey0706/Mini_GPT) repo, and I'd like to try one on these names too
 
 ## Running it
 
